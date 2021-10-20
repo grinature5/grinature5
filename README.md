@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @grinature5
+- 👀 I’m interested in C
